@@ -36,4 +36,6 @@ Nova is still evolving. Features, optimizations, and usability improvements may 
 
 ## ❤️ Credits
 
-              **Made with ❤️ by ScripthubDev**
+<p align="center">
+  Made with ❤️ by ScripthubDev
+</p>
